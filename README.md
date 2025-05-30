@@ -284,9 +284,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**[Your Name]**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+**[Pavan Raikar]**
+- GitHub: [@pavanraikar007](https://github.com/pavanraikar007) 
 
 ---
 
